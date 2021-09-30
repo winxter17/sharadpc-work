@@ -18,7 +18,7 @@ while(i<10):
         continue
     
 if i==10:
-    print("GAME OVER the number was 18")
+    print("GAME OVER the number was 21")
 
 
 
