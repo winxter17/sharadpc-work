@@ -1,0 +1,6 @@
+new = open("sharad.txt", "r")
+new2 = open("sharad.txt", "a")
+new2.write("Hi I am Sharad.\n")
+s=new.read()
+print(s)
+new.close()
